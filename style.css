@@ -1,0 +1,18 @@
+#home{
+    background-image:url("https://static6.depositphotos.com/1066611/561/i/450/depositphotos_5615496-stock-photo-background-showing-northern-lights-in.jpg");
+    background-size:cover;
+}
+.heading{
+    font-size:30px;
+}
+h1{
+    border:10px solid white;
+    box-shadow: 10px 10px 10px turquoise;
+    font-family: 'WaltographRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+button{
+    font-size:30px;
+    font-family: 'Lobster', cursive;
+}
